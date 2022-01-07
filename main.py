@@ -14,7 +14,7 @@ import json
 # mydatabase connection
 local_server=True
 app=Flask(__name__)
-app.secret_key="aneesrehmankhan"
+app.secret_key="aishwarya"
 
 
 with open('config.json','r') as c:
